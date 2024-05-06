@@ -97,7 +97,7 @@
             <td><a href="https://github.com/LostPaul/obsidian-folder-notes">Folder Notes</a></td>
             <td align="center">🟢</td>
             <td>폴더에 인덱스 파일을 생성할 수 있음</td>
-            <td>다운로드 수가 높은 xpgo의 Folder Note는 더이상 개발되지 않아 이 플러그인으로 설치</td>
+            <td>xpgo의 Folder Note는 더이상 개발되지 않아 이 플러그인으로 설치</td>
         </tr>
         <tr>
             <td><a href="https://github.com/denolehov/obsidian-git">Git</a></td>
