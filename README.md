@@ -53,16 +53,66 @@
 
 ### 플러그인 설치하기
 
-| 플러그인                                                                            | 필수 | 사용 이유                                                       | 비고                                                                                         |
-| ----------------------------------------------------------------------------------- | :--: | --------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| [Better Word Count](https://github.com/lukeleppan/better-word-count)                |  ❌  | 문서의 단어 개수 뿐만 아니라 드래그 영역의 단어 개수를 표시     | 코어 플러그인 "단어 개수" 끄기                                                               |
-| [Calendar](https://github.com/liamcain/obsidian-calendar-plugin)                    |  🟢  | 캘린더 인터페이스 및 특정 날짜의 데일리 노트 생성 기능 제공     | 마지막 업데이트 3년 전                                                                       |
-| [Custom File Explorer Sorting](https://github.com/SebastianMC/obsidian-custom-sort) |  🟢  | 사이드바 폴더와 파일을 마음대로 정렬                            |                                                                                              |
-| [Dataview](https://github.com/blacksmithgu/obsidian-dataview)                       |  🟢  | vault를 데이터베이스처럼 쿼리할 수 있고 JavaScript API를 제공함 |                                                                                              |
-| [File Explorer Note Count](https://github.com/ozntel/file-explorer-note-count)      |  ❌  | 사이드바 폴더에 자료 개수를 표시                                | 마지막 업데이트 1년 전                                                                       |
-| [Folder Notes](https://github.com/LostPaul/obsidian-folder-notes)                   |  🟢  | 폴더에 인덱스 파일을 생성할 수 있음                             | 다운로드 수가 높은 xpgo의 Folder Note는 더이상 개발되지 않아 이 플러그인으로 설치            |
-| [Git](https://github.com/denolehov/obsidian-git)                                    |  ❌  | Git을 사용한 싱크 기능 제공                                     |                                                                                              |
-| [Style Settings](https://github.com/mgmeyers/obsidian-style-settings)               |  ❌  | CSS 스니펫의 설정을 쉽게 변경할 수 있는 인터페이스 제공         | [AnuPpuccin](https://github.com/AnubisNekhet/AnuPpuccin)에서 제공하는 추가 설정 수정 시 필요 |
+<table>
+    <thead>
+        <tr>
+            <th width="20%">플러그인</th>
+            <th width="10%">필수</th>
+            <th width="50%">사용 이유</th>
+            <th width="20%">비고</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>[Better Word Count](https://github.com/lukeleppan/better-word-count)</th>
+            <td>❌</td>
+            <td>문서의 단어 개수 뿐만 아니라 드래그 영역의 단어 개수를 표시</td>
+            <td>코어 플러그인 &quot;단어 개수&quot; 끄기</td>
+        </tr>
+        <tr>
+            <th>[Calendar](https://github.com/liamcain/obsidian-calendar-plugin)</th>
+            <td>🟢</td>
+            <td>캘린더 인터페이스 및 특정 날짜의 데일리 노트 생성 기능 제공</td>
+            <td>마지막 업데이트 3년 전</td>
+        </tr>
+        <tr>
+            <th>[Custom File Explorer Sorting](https://github.com/SebastianMC/obsidian-custom-sort)</th>
+            <td>🟢</td>
+            <td>사이드바 폴더와 파일을 마음대로 정렬</td>
+            <td></td>
+        </tr>
+        <tr>
+            <th>[Dataview](https://github.com/blacksmithgu/obsidian-dataview)</th>
+            <td>🟢</td>
+            <td>vault를 데이터베이스처럼 쿼리할 수 있고 JavaScript API를 제공함</td>
+            <td></td>
+        </tr>
+        <tr>
+            <th>[File Explorer Note Count](https://github.com/ozntel/file-explorer-note-count)</th>
+            <td>❌</td>
+            <td>사이드바 폴더에 자료 개수를 표시</td>
+            <td>마지막 업데이트 1년 전</td>
+        </tr>
+        <tr>
+            <th>[Folder Notes](https://github.com/LostPaul/obsidian-folder-notes)</th>
+            <td>🟢</td>
+            <td>폴더에 인덱스 파일을 생성할 수 있음</td>
+            <td>다운로드 수가 높은 xpgo의 Folder Note는 더이상 개발되지 않아 이 플러그인으로 설치</td>
+        </tr>
+        <tr>
+            <th>[Git](https://github.com/denolehov/obsidian-git)</th>
+            <td>❌</td>
+            <td>Git을 사용한 싱크 기능 제공</td>
+            <td></td>
+        </tr>
+        <tr>
+            <th>[Style Settings](https://github.com/mgmeyers/obsidian-style-settings)</th>
+            <td>❌</td>
+            <td>CSS 스니펫의 설정을 쉽게 변경할 수 있는 인터페이스 제공</td>
+            <td>[AnuPpuccin](https://github.com/AnubisNekhet/AnuPpuccin)에서 제공하는 추가 설정 수정 시 필요</td>
+        </tr>
+    </tbody>
+</table>
 
 ## 💬 사용하기
 
