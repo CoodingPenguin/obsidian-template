@@ -34,6 +34,17 @@
   - [custom-separator.css](https://github.com/replete/obsidian-minimal-theme-css-snippets/blob/main/%5Bui%5D%20Custom%20Separators.css): 사이드바 폴더 사이에 구분자를 추가합니다.
   - [extended-colorschemes.css](https://github.com/AnubisNekhet/AnuPpuccin/blob/main/snippets/extended-colorschemes.css): 기본 테마 외 [AnuPpuccin](https://github.com/AnubisNekhet/AnuPpuccin)에서 제공하는 테마를 추가합니다.
 
+#### 코어 플러그인
+
+- **단어 개수**: 켜기 → 끄기
+  - 커뮤니티 플러그인인 [Better Word Count](https://github.com/lukeleppan/better-word-count)로 대체합니다.
+
+#### 데일리 노트
+
+- **날짜 형식**: "YYYY-MM-DD [업무일지]"로 지정
+- **새 파일 경로**: "업무일지"로 지정
+- **템플릿 파일 경로**: "자료/템플릿/업무일지 템플릿"으로 지정
+
 #### 커뮤니티 플러그인
 
 "커뮤니티 플러그인 사용"을 허용해주세요.
@@ -42,31 +53,16 @@
 
 ### 플러그인 설치하기
 
-| 플러그인                                                             | 필수 | 사용 이유 | 비고 |
-| -------------------------------------------------------------------- | ---- | --------- | ---- |
-| [Better Word Count](https://github.com/lukeleppan/better-word-count) | 선택 |           |      |
-
-#### Better Word Count
-
-#### Calendar
-
-#### Contextual Typography
-
-#### Custom File Explorer Sorting
-
-#### Dataview
-
-#### File Explorer Note Count
-
-#### Folder Notes
-
-#### Git
-
-#### Sortable
-
-#### Style Settings
-
-####
+| 플러그인                                                                            | 필수 | 사용 이유                                                       | 비고                                                                                         |
+| ----------------------------------------------------------------------------------- | :--: | --------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| [Better Word Count](https://github.com/lukeleppan/better-word-count)                |  ❌  | 문서의 단어 개수 뿐만 아니라 드래그 영역의 단어 개수를 표시     | 코어 플러그인 "단어 개수" 끄기                                                               |
+| [Calendar](https://github.com/liamcain/obsidian-calendar-plugin)                    |  🟢  | 캘린더 인터페이스 및 특정 날짜의 데일리 노트 생성 기능 제공     | 마지막 업데이트 3년 전                                                                       |
+| [Custom File Explorer Sorting](https://github.com/SebastianMC/obsidian-custom-sort) |  🟢  | 사이드바 폴더와 파일을 마음대로 정렬                            |                                                                                              |
+| [Dataview](https://github.com/blacksmithgu/obsidian-dataview)                       |  🟢  | vault를 데이터베이스처럼 쿼리할 수 있고 JavaScript API를 제공함 |                                                                                              |
+| [File Explorer Note Count](https://github.com/ozntel/file-explorer-note-count)      |  ❌  | 사이드바 폴더에 자료 개수를 표시                                | 마지막 업데이트 1년 전                                                                       |
+| [Folder Notes](https://github.com/LostPaul/obsidian-folder-notes)                   |  🟢  | 폴더에 인덱스 파일을 생성할 수 있음                             | 다운로드 수가 높은 xpgo의 Folder Note는 더이상 개발되지 않아 이 플러그인으로 설치            |
+| [Git](https://github.com/denolehov/obsidian-git)                                    |  ❌  | Git을 사용한 싱크 기능 제공                                     |                                                                                              |
+| [Style Settings](https://github.com/mgmeyers/obsidian-style-settings)               |  ❌  | CSS 스니펫의 설정을 쉽게 변경할 수 있는 인터페이스 제공         | [AnuPpuccin](https://github.com/AnubisNekhet/AnuPpuccin)에서 제공하는 추가 설정 수정 시 필요 |
 
 ## 💬 사용하기
 
