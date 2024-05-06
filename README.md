@@ -64,49 +64,49 @@
     </thead>
     <tbody>
         <tr>
-            <th><a href="https://github.com/lukeleppan/better-word-count">Better Word Count</a></th>
+            <td><a href="https://github.com/lukeleppan/better-word-count">Better Word Count</a></td>
             <td align="center">❌</td>
             <td>문서의 단어 개수 뿐만 아니라 드래그 영역의 단어 개수를 표시</td>
             <td>코어 플러그인 &quot;단어 개수&quot; 끄기</td>
         </tr>
         <tr>
-            <th><a href="https://github.com/liamcain/obsidian-calendar-plugin">Calendar</a></th>
+            <td><a href="https://github.com/liamcain/obsidian-calendar-plugin">Calendar</a></td>
             <td align="center">🟢</td>
             <td>캘린더 인터페이스 및 특정 날짜의 데일리 노트 생성 기능 제공</td>
             <td>마지막 업데이트 3년 전</td>
         </tr>
         <tr>
-            <th><a href="https://github.com/SebastianMC/obsidian-custom-sort">Custom File Explorer Sorting</a></th>
+            <td><a href="https://github.com/SebastianMC/obsidian-custom-sort">Custom File Explorer Sorting</a></td>
             <td align="center">🟢</td>
             <td>사이드바 폴더와 파일을 마음대로 정렬</td>
             <td></td>
         </tr>
         <tr>
-            <th><a href="https://github.com/blacksmithgu/obsidian-dataview">Dataview</a></th>
+            <td><a href="https://github.com/blacksmithgu/obsidian-dataview">Dataview</a></td>
             <td align="center">🟢</td>
             <td>vault를 데이터베이스처럼 쿼리할 수 있고 JavaScript API를 제공함</td>
             <td></td>
         </tr>
         <tr>
-            <th><a href="https://github.com/ozntel/file-explorer-note-count">File Explorer Note Count</a></th>
+            <td><a href="https://github.com/ozntel/file-explorer-note-count">File Explorer Note Count</a></td>
             <td align="center">❌</td>
             <td>사이드바 폴더에 자료 개수를 표시</td>
             <td>마지막 업데이트 1년 전</td>
         </tr>
         <tr>
-            <th><a href="https://github.com/LostPaul/obsidian-folder-notes">Folder Notes</a></th>
+            <td><a href="https://github.com/LostPaul/obsidian-folder-notes">Folder Notes</a></td>
             <td align="center">🟢</td>
             <td>폴더에 인덱스 파일을 생성할 수 있음</td>
             <td>다운로드 수가 높은 xpgo의 Folder Note는 더이상 개발되지 않아 이 플러그인으로 설치</td>
         </tr>
         <tr>
-            <th><a href="https://github.com/denolehov/obsidian-git">Git</a></th>
+            <td><a href="https://github.com/denolehov/obsidian-git">Git</a></td>
             <td align="center">❌</td>
             <td>Git을 사용한 싱크 기능 제공</td>
             <td></td>
         </tr>
         <tr>
-            <th><a href="https://github.com/mgmeyers/obsidian-style-settings">Style Settings</a></th>
+            <td><a href="https://github.com/mgmeyers/obsidian-style-settings">Style Settings</a></td>
             <td align="center">❌</td>
             <td>CSS 스니펫의 설정을 쉽게 변경할 수 있는 인터페이스 제공</td>
             <td><a href="https://github.com/AnubisNekhet/AnuPpuccin">AnuPpuccin</a>에서 제공하는 추가 설정 수정 시 필요</td>
