@@ -58,8 +58,8 @@
         <tr>
             <th width="22%">플러그인</th>
             <th width="8%" align="center">필수</th>
-            <th width="45%">사용 이유</th>
-            <th width="25%">비고</th>
+            <th width="40%">사용 이유</th>
+            <th width="30%">비고</th>
         </tr>
     </thead>
     <tbody>
